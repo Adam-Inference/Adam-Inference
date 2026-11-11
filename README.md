@@ -43,11 +43,6 @@ School best Friend: @XTHESilent
   <img src="https://streak-stats.demolab.com/?user=Adam-Inference&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adam-Inference&theme=transparent&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
